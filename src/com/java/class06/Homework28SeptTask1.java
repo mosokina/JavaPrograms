@@ -1,6 +1,6 @@
 package com.java.class06;
 
-import java.sql.SQLOutput;
+
 import java.util.Scanner;
 
 public class Homework28SeptTask1 {
